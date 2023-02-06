@@ -2,7 +2,7 @@
 
 Study notes for the AWS Developer Certification
 
-**Scheduled 2/3/2023**
+**Scheduled 3/10/2023**
 
 **Exam Topics**
 
